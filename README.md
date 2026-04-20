@@ -5,6 +5,7 @@
 </a>
 
 ### About Me
+* **College:** Faculty of Technology, University of Delhi
 * **Current Role:** 2nd Year B.Tech in ECE (VLSI Specialization).
 * **Core Focus:** Operating at the intersection of Hardware and AI. My current priority is geared toward **ML Engineering** roles, building practical, scalable models while maintaining a strong foundation in edge hardware.
 * **Goal:** Designing AI chips and hardware accelerators to make AI run faster and cheaper.
