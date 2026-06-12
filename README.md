@@ -65,6 +65,8 @@ I love building things that sit at the intersection of hardware and AI — from 
 <a href="https://github.com/Anu13lol" target="_blank"><img align="center" src="github.svg" alt="github" height="30" width="40" /></a>
 &nbsp;
 <a href="https://x.com/LimonDss" target="_blank"><img align="center" src="x.svg" alt="Vinitzz_" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/junnuu.10" target="_blank"><img align="center" src="instagram.svg" alt="insta" height="30" width="40" /></a>
  
 <div align="center" >
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Savoring%20Food.png" width="8%" alt="😋"/>
